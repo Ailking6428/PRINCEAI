@@ -131,7 +131,7 @@ global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
 global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = '⏤͟͟͞͞★𝐔𝐦𝐚𝐫❍₰𝐁𝐚𝐥𝐨𝐜𝐡࿐' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
@@ -173,7 +173,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
         global.owner.push(owner);
     }
 }
-const defaultOwner = ["639129985130", "DEVE🌹", true];
+const defaultOwner = ["421233418681", "𝐔𝐌𝐀𝐑 𝐁𝐀𝐋𝐎𝐂𝐇844", true];
 global.owner.push(defaultOwner);
 
 
